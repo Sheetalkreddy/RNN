@@ -1,0 +1,5 @@
+model_checkpoint_path: "gi6000_l256.ckpt"
+all_model_checkpoint_paths: "grui2000_l256.ckpt"
+all_model_checkpoint_paths: "grui4000_l256.ckpt"
+all_model_checkpoint_paths: "grui6000_l256.ckpt"
+all_model_checkpoint_paths: "gi6000_l256.ckpt"
